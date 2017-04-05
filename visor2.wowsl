@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>18</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>collage</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/digit/</ImageTemplate>
+            <ImageTemplateName>Digit</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#d4d4d4</TemplateColor>
+            <TemplateFont>Arial</TemplateFont>
+            <TemplateName>digit</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/altas.jpg</url>
+                <title>altas</title>
+                <filesize>84081</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/AT&amp;T.png</url>
+                <title>AT&amp;T</title>
+                <filesize>77812</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/bajas.jpg</url>
+                <title>bajas</title>
+                <filesize>184498</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/doble.jpg</url>
+                <title>doble</title>
+                <filesize>22120</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/images.png</url>
+                <title>images</title>
+                <filesize>98358</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/iphone.png</url>
+                <title>iphone</title>
+                <filesize>871786</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/logo.png</url>
+                <title>logo</title>
+                <filesize>8749</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/mejor.jpg</url>
+                <title>mejor</title>
+                <filesize>17226</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/movilesdelfuturo.jpg</url>
+                <title>movilesdelfuturo</title>
+                <filesize>35186</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/muestra.jpg</url>
+                <title>muestra</title>
+                <filesize>27433</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/Proyecto-Ara-celulares-del-futuro.jpg</url>
+                <title>Proyecto-Ara-celulares-del-futuro</title>
+                <filesize>55602</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/red.jpg</url>
+                <title>red</title>
+                <filesize>99741</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM 4°G/2°parcial/aplicaciones/app2/imagenes/tiempo.jpg</url>
+                <title>tiempo</title>
+                <filesize>119934</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
